@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am passionate about Machine Learning, Artificial
 
 ## 1. Personal Details
 - **Name:** Raan Saurav Bhuyan
-- **Current Role:** AI/ML Instructor and Project Coordinator
+- **Current Role:** Associate Project Scientist, Dept. of EEE
 - **Institute:** Indian Institute of Technology Guwahati
 - **Socials:** [Instagram](#) | [X (Twitter)](#) | [Threads](#)
 - **Quick Facts:** Quick learner, upholds the highest standard of quality both professionally and personally.
@@ -15,12 +15,12 @@ Welcome to my GitHub profile! I am passionate about Machine Learning, Artificial
 
 ## 2. Academic Details
 - **Field of Study:** Machine Learning, Artificial Intelligence, Mathematics, Physics, Computer Science
-- **Academic Affiliation:** Indian Institute of Technology Guwahati
+- **Academic Affiliation:** Indian Institute of Technology Guwahati, Cotton University, Gauhati University, Tihu College
 
 ---
 
 ## 3. Professional Details
-- **Role:** AI/ML Instructor and Project Coordinator
+- **Role:** Associate Project Scientist, Dept. of EEE
 - **Institute:** Indian Institute of Technology Guwahati
 - **Key Responsibilities:**
   - Teaching and mentoring students in AI/ML courses
@@ -30,18 +30,17 @@ Welcome to my GitHub profile! I am passionate about Machine Learning, Artificial
 ---
 
 ## 4. Experiences
-- **Crowd Counting**: Developed models and solutions for crowd estimation using computer vision and ML.
-- **Covid-19 Case Prediction**: Built predictive models to forecast Covid-19 cases using statistical and ML techniques.
-- **Word Boundary Detection in Assamese Speech**: Researched and implemented solutions for speech processing in regional languages.
-- **IDC-Breast Cancer Classification**: Contributed to biomedical machine learning for cancer diagnosis.
+- **AI/ML Instructor and Project Coordinator** at Dept. of EEE in Indian Institute of Technology Guwahati, Assam, India; duration of 4 months (Jun 2025 - Nov 2025)
+- **Assistant Teacher** at Chandraprabha Saikiani Academy of Science in Pathsala, Assam, India; duration of 6 months (Dec 2021 - Jun 2022)
 
 ---
 
 ## 5. Projects
-- **Crowd Counting**
-- **Covid-19 Case Prediction Model**
-- **Word Boundary Detection in Assamese Speech**
-- **IDC-Breast Cancer Classification**
+- **Optical Networks**: Working in a project deploying reinforcement learning framework for fault management in Elastic Optical Networks (EONs).
+- **Crowd Counting**: Developed models and solutions for crowd estimation and counting using computer vision and ML.
+- **Covid-19 Case Prediction**: Built predictive models to forecast Covid-19 cases using statistical and ML techniques.
+- **Word Boundary Detection in Assamese Speech**: Researched and implemented solutions for speech processing in regional languages.
+- **IDC-Breast Cancer Classification**: Contributed to biomedical machine learning for cancer diagnosis.
 
 ---
 
@@ -50,7 +49,7 @@ Welcome to my GitHub profile! I am passionate about Machine Learning, Artificial
 - Solving Rubik's Cube 🧩
 - Learning new skills 📚
 - Playing badminton 🏸
-- Mentoring students and audiences
+- Mentoring students and audiences 👩‍🏫
 
 ---
 
@@ -58,9 +57,13 @@ Welcome to my GitHub profile! I am passionate about Machine Learning, Artificial
 - Machine Learning & Deep Learning
 - Computer Vision
 - Data Science & Analytics
-- Mathematics for AI
-- Programming (Python, MATLAB)
+- Mathematics for AI and ML
+- Programming (C, C++, Java, Web, Python, MATLAB)
 - Speech Processing
+- Signal processing
+- Cloud Computing
+- High-performance computing
+- Edge computing
 - Quick learning and quality assurance
 
 ---
@@ -79,7 +82,7 @@ Welcome to my GitHub profile! I am passionate about Machine Learning, Artificial
 | AI/ML research growth       | Rapid tech evolution            |
 | Industry-academia projects  | Work-life balance challenges    |
 | Collaboration/Networking    | High competition in ML field    |
-| Regional language AI        | Resource constraints            |
+| AI research and development | Resource constraints            |
 
 ---
 
